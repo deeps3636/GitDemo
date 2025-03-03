@@ -52,4 +52,6 @@ class TestHomePage(BaseClass):
 
 print("Added lins for git tests")
 
+print ("Added from GitPull")
+
 

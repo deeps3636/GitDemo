@@ -50,3 +50,6 @@ class TestHomePage(BaseClass):
         time.sleep(5)
 
 
+print("Added lins for git tests")
+
+
